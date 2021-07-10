@@ -1887,6 +1887,8 @@ ul.social-links li:last-child a {
   display: table-cell;
   padding: 0 10px 5px 0;
   width: 44px;
+  color: blue;
+  font-size: 0px;
 }
 
 .info-block-w-icon .ci-text {
